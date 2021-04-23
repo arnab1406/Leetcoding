@@ -1,4 +1,4 @@
-#!/usr/env/bin python
+#!/usr/bin/env python3
 class Solution:
     def maximumWealth(self, accounts: List[List[int]]) -> int:
         max_wealth = 0

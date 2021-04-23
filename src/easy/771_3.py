@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 class Solution:
     def numJewelsInStones(self, jewels: str, stones: str) -> int:
         if len(jewels)==0 or len(stones)==0:
